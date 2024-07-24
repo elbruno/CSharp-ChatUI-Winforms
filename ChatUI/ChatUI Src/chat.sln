@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat", "chat\chat.csproj", "{7C51B9DB-A829-4C1F-8055-6663B565B0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatNet8", "ChatNet8\ChatNet8.csproj", "{88CFC458-007A-47F0-BD15-9C53300DFB4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7C51B9DB-A829-4C1F-8055-6663B565B0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C51B9DB-A829-4C1F-8055-6663B565B0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C51B9DB-A829-4C1F-8055-6663B565B0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CFC458-007A-47F0-BD15-9C53300DFB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CFC458-007A-47F0-BD15-9C53300DFB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CFC458-007A-47F0-BD15-9C53300DFB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CFC458-007A-47F0-BD15-9C53300DFB4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

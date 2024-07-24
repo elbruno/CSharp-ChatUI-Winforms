@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\1_32.png" />
+    <Content Include="Resources\2.jfif" />
+    <Content Include="Resources\2_32.png" />
+    <Content Include="Resources\3.jpg" />
+    <Content Include="Resources\3_32.png" />
+    <Content Include="Resources\4.jfif" />
+    <Content Include="Resources\4_32.png" />
+    <Content Include="Resources\5_32.png" />
+    <Content Include="Resources\Away_32.png" />
+    <Content Include="Resources\icons8_Attach_32.png" />
+    <Content Include="Resources\icons8_Attach_321.png" />
+    <Content Include="Resources\icons8_Call-white_32.png" />
+    <Content Include="Resources\icons8_Call_32.png" />
+    <Content Include="Resources\icons8_Chat_32.png" />
+    <Content Include="Resources\icons8_Close_Window_32.png" />
+    <Content Include="Resources\icons8_Delete_32.png" />
+    <Content Include="Resources\icons8_Email_Send_32.png" />
+    <Content Include="Resources\icons8_Maximize_Window_32.png" />
+    <Content Include="Resources\icons8_Menu_Vertical-white_32.png" />
+    <Content Include="Resources\icons8_Menu_Vertical_32.png" />
+    <Content Include="Resources\icons8_Minimize_Window_32.png" />
+    <Content Include="Resources\icons8_Minimize_Window_321.png" />
+    <Content Include="Resources\icons8_Neutral_32.png" />
+    <Content Include="Resources\icons8_Neutral_321.png" />
+    <Content Include="Resources\icons8_Paper_Plane_32.png" />
+    <Content Include="Resources\icons8_User_32.png" />
+    <Content Include="Resources\icons8_Video_Call-white_32.png" />
+    <Content Include="Resources\icons8_Video_Call_32.png" />
+    <Content Include="Resources\MsgDelivered_32.png" />
+    <Content Include="Resources\MsgError_32.png" />
+    <Content Include="Resources\MsgRead_32.png" />
+    <Content Include="Resources\MsgSending_32.png" />
+    <Content Include="Resources\MsgSent_32.png" />
+    <Content Include="Resources\offline_32.png" />
+    <Content Include="Resources\Online_32.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
