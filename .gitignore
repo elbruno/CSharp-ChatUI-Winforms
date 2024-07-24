@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChatUI/ChatUI Src/.vs/chat/FileContentIndex
+/ChatUI/ChatUI Src/.vs/chat/v17
+/ChatUI/ChatUI Src/chat/bin/Debug/chat.exe
+/ChatUI/ChatUI Src/chat/bin/Debug/chat.exe.config
+/ChatUI/ChatUI Src/chat/bin/Debug/chat.pdb
+/ChatUI/ChatUI Src/chat/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+/ChatUI/ChatUI Src/chat/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.BeautyForm.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.ChatHeader.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.csproj.AssemblyReference.cache
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.csproj.CoreCompileInputs.cache
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.csproj.FileListAbsolute.txt
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.csproj.GenerateResource.Cache
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.exe
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.Form1.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.MeBubble.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.pdb
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.Properties.Resources.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.SearchBox.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.TypingBox.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.Users.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/chat.YouBubble.resources
+/ChatUI/ChatUI Src/chat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ChatUI/ChatUI Src/ChatNet8/bin/Debug/net8.0-windows
+/ChatUI/ChatUI Src/ChatNet8/obj/Debug/net8.0-windows
+/ChatUI/ChatUI Src/ChatNet8/obj
